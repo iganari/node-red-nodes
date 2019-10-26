@@ -15,7 +15,7 @@
             "responsetimeout": "レスポンスタイムアウトの初期設定値",
             "ms": "ms",
             "serial": "serial",
-            "none": "なし"
+            "none": "なし",
             "start": "開始文字列",
             "startor": ", then"
         },
@@ -32,6 +32,7 @@
         "split": {
             "character": "文字列で区切る",
             "timeout": "タイムアウト後で区切る",
+            "silent": "一定時間後に区切る",
             "lengths": "一定の文字数で区切る"
         },
         "output": {
